@@ -8,6 +8,7 @@
 
 import XCTest
 import CoreData
+import Curry
 
 struct Employee : CVManagedStruct {
     

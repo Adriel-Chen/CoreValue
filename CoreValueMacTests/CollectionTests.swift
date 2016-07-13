@@ -8,7 +8,7 @@
 
 import XCTest
 import CoreData
-
+import Curry
 
 struct StoredEmployee : CVManagedPersistentStruct {
     static let EntityName = "Employee"
